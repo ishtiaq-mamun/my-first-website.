@@ -1,0 +1,14 @@
+
+.romantic{
+    color:white;
+    font-size: 30px;
+}
+.blog{
+    color: magenta;
+    background-color:lightskyblue;
+    border:blueviolet solid 10px;
+    border-radius: 50px;
+    margin:1%;
+    width:30%;
+    float: left;
+}
